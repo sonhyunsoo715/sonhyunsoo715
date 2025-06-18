@@ -1,7 +1,7 @@
 ## 🛠Tech Stack
 
 <h3>Frontend</h3>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="margin-right:8px"/>
     <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin-right:8px"/>
@@ -10,19 +10,19 @@
 </div>
 
 <h3>Backend</h3>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" style="margin-right:8px"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" style="margin-right:8px"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin-right:8px"/>
 </div>
 
 <h3>Database</h3>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right:8px"/>
 </div>
 
 <h3>Tools</h3>
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" style="margin-right:8px"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
