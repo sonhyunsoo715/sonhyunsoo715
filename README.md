@@ -27,9 +27,11 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
+
 <hr>
+
 
 ## Education  
 스마트인재개발원 - 언어지능기반 분석서비스 개발자과정<br>
 2025.12 ~ 현재<br>  
-주요 내용: React 기반 프론트엔드 개발<br>
+주요 내용: React 기반 프론트엔드 개발
