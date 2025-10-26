@@ -34,3 +34,6 @@
 스마트인재개발원 - 언어지능기반 분석서비스 개발자과정<br>
 2024.12 ~ 2025.07  
 주요 역할 : React 기반 프론트엔드 개발
+
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonhyunsoo715&show_icons=true&theme=radical)
