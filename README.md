@@ -36,4 +36,5 @@
 주요 역할 : React 기반 프론트엔드 개발
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonhyunsoo715&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonhyunsoo715&show_icons=true&theme=default)
+
